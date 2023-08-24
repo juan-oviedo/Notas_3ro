@@ -1,0 +1,5 @@
+* ### [[Escala]]
+* ### [[Productividad]]
+* ### [[Calidad]]
+* ### [[Consistencia y repetitividad]]
+* ### [[Cambio]]
