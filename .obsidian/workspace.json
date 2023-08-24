@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "0fef5996a5bb16fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "33399f7ff96cc8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b16281baad701ab1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c17f78af5f92b7c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a404a6854f0db1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4afb806cbc79536",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4dc5008748752021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Identificar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f31be51a48edabea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e87eb2b0fa2e2a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "75da76c4afe258ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c55e7fa309462811",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b009478798c4ab41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c81a189429c25a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69fca8b7a519782a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4afb806cbc79536",
+  "lastOpenFiles": [
+    "ingenieria del software/Modelado orientado a objetos.md",
+    "ingenieria del software/Cambio.md",
+    "ingenieria del software/imagenes",
+    "ingenieria del software/Análisis de requisitos y especificación.md",
+    "ingenieria del software/Especificación de los requerimientos.md",
+    "ingenieria del software/Casos de uso.md",
+    "ingenieria del software/imagenes/Pasted image 20230823212146.png",
+    "ingenieria del software/imagenes/Pasted image 20230823211707.png",
+    "ingenieria del software/imagenes/Pasted image 20230823211646.png",
+    "ingenieria del software/imagenes/Pasted image 20230823211557.png",
+    "ingenieria del software/Estructura de un documento de requerimientos.md",
+    "ingenieria del software/Componentes de una SRS.md",
+    "ingenieria del software/SRS.md",
+    "ingenieria del software/Características de una SRS.md",
+    "ingenieria del software/Métricas.md",
+    "ingenieria del software/imagenes/Pasted image 20230823201121.png",
+    "ingenieria del software/imagenes/Pasted image 20230823200949.png",
+    "ingenieria del software/imagenes/Pasted image 20230823200928.png",
+    "ingenieria del software/Validación.md",
+    "ingenieria del software/Análisis del problema.md",
+    "ingenieria del software/Prototipado.md",
+    "ingenieria del software/imagenes/Pasted image 20230823194242.png",
+    "ingenieria del software/Modelado de flujo de datos.md",
+    "ingenieria del software/DFD.md",
+    "ingenieria del software/imagenes/Pasted image 20230823192942.png",
+    "ingenieria del software/imagenes/Pasted image 20230823191839.png",
+    "ingenieria del software/Enfoque informal.md",
+    "ingenieria del software/Calidad.md",
+    "Proceso de requerimientos.md",
+    "ingenieria del software/Fases.md",
+    "ingenieria del software/Ingenieria del Software.md",
+    "ingenieria del software/Escala.md",
+    "ingenieria del software/Software.md",
+    "ingenieria del software/caracteristicas.md",
+    "ingenieria del software/Consistencia y repetitividad.md",
+    "ingenieria del software/Calidad (Amy J. Ko).md",
+    "ingenieria del software",
+    "base de datos",
+    "arquitectura"
+  ]
+}
