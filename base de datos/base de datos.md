@@ -303,7 +303,7 @@ obtener toda la información de CE de especialización requiere acceder a dos ta
 es decir cuando una entidad E, puede pertenecer a la entidad generalizadora sin pertenecer a las entidades especificas, pero no puede pertenecer a 2 entidades especificas ej:
 si tengo una BD que modela que un vehiculo puede estar ser un auto, o un camion, pero se ingresa una moto a la BD, como no entra en ninguna especificacion se queda en la generalizacion
 
-formar una tabla para cada CE especialización con los atributos locales y heredados del CE generalización
+formar una tabla para cada CE especialización con los atributos locales y heredados del CE generalización, además de crear un tabla con la E generalizadora.
 
 #### generalización disjunta y total:
 es decir toda instancia de la generalización tiene que pertenecer a solo una especializacion
