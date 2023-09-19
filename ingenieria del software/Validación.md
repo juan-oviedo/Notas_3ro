@@ -1,15 +1,14 @@
 Debido a la naturaleza de esta etapa, hay muchas posibilidades de malentendidos.
 => muchos errores son posibles.
+
 • Es caro corregir los defectos de requerimientos más tarde.
 • Se deben intentar corregir en esta etapa.
 • Errores más comunes:
-Omisión 30%
-Inconsistencia 10-30%
-Hechos incorrectos 10-30%
-Ambigüedad 5-20%
-Aparte de los
-errores de
-“papeleo”
+	Omisión 30%
+	Inconsistencia 10-30%
+	Hechos incorrectos 10-30%
+	Ambigüedad 5-20%
+	Aparte de los errores de “papeleo”
 
 La SRS se revisa por un grupo de personas.
 • Grupo conformado por: autor, cliente, representantes de usuarios y de
@@ -20,7 +19,7 @@ desarrolladores.
 requerimientos.
 • Las listas de controles son muy útiles para ello.
 
-Ejemplo de lista de control:
+Ejemplo de lista de control: (aprenderse 3)
 • ¿Se definieron todos los recursos de hardware?
 • ¿Se especificaron los tiempos de respuestas de las funciones?
 • ¿Se definió todo el hardware, el software externo y las interfaces de datos?

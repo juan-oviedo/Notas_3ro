@@ -12,7 +12,7 @@ usuario en la SRS.
 1) [[Análisis del problema]] o requerimientos.
 2) [[Especificación de los requerimientos]]
 3) [[Validación]]
-4) [[Métricas]] ??
+4) [[Métricas]]
 
 El análisis exige la recolección/extracción y es lo más difícil.
 El proceso no es lineal; es iterativo y en paralelo. Existe superposición entre las fases: algunas partes pueden estar siendo especificadas mientras otras están aún bajo análisis.

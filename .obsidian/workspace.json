@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "33399f7ff96cc8ca",
+        "id": "72a38089d164d0c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b16281baad701ab1",
+            "id": "de48f8e2c711c907",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base de datos/base de datos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Identificar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png",
+                "file": "base de datos/base de datos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png",
+                "file": "base de datos/base de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingenieria del software/imagenes/Pasted image 20230823180106.png"
+                "file": "base de datos/base de datos.md"
               }
             }
           }
@@ -141,44 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4afb806cbc79536",
+  "active": "de48f8e2c711c907",
   "lastOpenFiles": [
-    "ingenieria del software/Modelado orientado a objetos.md",
-    "ingenieria del software/Cambio.md",
+    "ingenieria del software/imagenes/Pasted image 20230905233218.png",
+    "base de datos/base de datos.md",
+    "base de datos",
+    "ingenieria del software/Abstracción.md",
+    "ingenieria del software/Metodología de diseño estructurado (SDM).md",
+    "ingenieria del software/imagenes/Pasted image 20230906230022.png",
+    "ingenieria del software/Diseño funcional.md",
+    "ingenieria del software/Notación y especificación del diseño.md",
+    "ingenieria del software/Cohesión funcional.md",
+    "ingenieria del software/Acoplamiento funcional.md",
+    "ingenieria del software/Diseño.md",
+    "ingenieria del software/Estrategias top-down y bottom-up.md",
+    "ingenieria del software/Métricas Diseño.md",
+    "ingenieria del software/diseño orientado a objetos.md",
+    "ingenieria del software/Verificación del diseño.md",
+    "ingenieria del software/Métricas.md",
+    "ingenieria del software/imagenes/Pasted image 20230906203131.png",
+    "ingenieria del software/imagenes/Pasted image 20230906203118.png",
+    "ingenieria del software/imagenes/Pasted image 20230906203052.png",
+    "ingenieria del software/imagenes/Pasted image 20230906202808.png",
+    "ingenieria del software/Principios de diseño.md",
+    "ingenieria del software/Modularidad.md",
+    "ingenieria del software/Partición y jerarquía.md",
+    "ingenieria del software/Criterios para evaluar el diseño.md",
+    "ingenieria del software/Fases.md",
+    "ingenieria del software/Arquitectura.md",
+    "ingenieria del software/Vistas de la arquitectura.md",
+    "ingenieria del software/Evaluación de las arquitecturas.md",
+    "ingenieria del software/Arquitectura vs diseño.md",
+    "ingenieria del software/componentes y conectores.md",
+    "ingenieria del software/Estilo de procesos que se comunican.md",
+    "ingenieria del software/Estilo peer-to-peer.md",
+    "ingenieria del software/imagenes/Pasted image 20230906190934.png",
+    "ingenieria del software/imagenes/Pasted image 20230906190359.png",
     "ingenieria del software/imagenes",
-    "ingenieria del software/Análisis de requisitos y especificación.md",
-    "ingenieria del software/Especificación de los requerimientos.md",
-    "ingenieria del software/Casos de uso.md",
     "ingenieria del software/imagenes/Pasted image 20230823212146.png",
     "ingenieria del software/imagenes/Pasted image 20230823211707.png",
-    "ingenieria del software/imagenes/Pasted image 20230823211646.png",
-    "ingenieria del software/imagenes/Pasted image 20230823211557.png",
-    "ingenieria del software/Estructura de un documento de requerimientos.md",
-    "ingenieria del software/Componentes de una SRS.md",
-    "ingenieria del software/SRS.md",
-    "ingenieria del software/Características de una SRS.md",
-    "ingenieria del software/Métricas.md",
-    "ingenieria del software/imagenes/Pasted image 20230823201121.png",
-    "ingenieria del software/imagenes/Pasted image 20230823200949.png",
-    "ingenieria del software/imagenes/Pasted image 20230823200928.png",
-    "ingenieria del software/Validación.md",
-    "ingenieria del software/Análisis del problema.md",
-    "ingenieria del software/Prototipado.md",
-    "ingenieria del software/imagenes/Pasted image 20230823194242.png",
-    "ingenieria del software/Modelado de flujo de datos.md",
-    "ingenieria del software/DFD.md",
-    "ingenieria del software/imagenes/Pasted image 20230823192942.png",
-    "ingenieria del software/imagenes/Pasted image 20230823191839.png",
-    "ingenieria del software/Enfoque informal.md",
-    "ingenieria del software/Calidad.md",
-    "Proceso de requerimientos.md",
-    "ingenieria del software/Fases.md",
-    "ingenieria del software/Ingenieria del Software.md",
-    "ingenieria del software/Escala.md",
-    "ingenieria del software/Software.md",
-    "ingenieria del software/caracteristicas.md",
-    "ingenieria del software/Consistencia y repetitividad.md",
-    "ingenieria del software/Calidad (Amy J. Ko).md",
     "ingenieria del software",
     "base de datos",
     "arquitectura"

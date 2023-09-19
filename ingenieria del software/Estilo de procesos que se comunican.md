@@ -1,0 +1,1 @@
+• Procesos que se comunican entre sí a través de pasaje de mensajes.
